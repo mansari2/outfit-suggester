@@ -1,6 +1,6 @@
-# Outfit Suggester
+# Date Night Outfit Suggestor
 
-This project is a simple machine learning application that suggests outfits based on user input, considering factors such as weather conditions and occasions.
+This project is a simple machine learning application that suggests outfits based on weather and occasions. Its also a nice way to keep track of what I have in my closet so I can plan for dates with my wife
 
 ## Project Structure
 
