@@ -1,0 +1,11 @@
+weather,occasion,clothing_item
+sunny,casual,t-shirt
+sunny,formal,shorts
+rainy,casual,raincoat
+rainy,formal,umbrella
+cloudy,casual,sweater
+cloudy,formal,jacket
+snowy,casual,hoodie
+snowy,formal,overcoat
+windy,casual,windbreaker
+windy,formal,scarf
